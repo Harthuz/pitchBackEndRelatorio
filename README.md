@@ -1,1 +1,2 @@
 # pitchBackEndRelatorio
+Nesse pitch, discutimos brevemente nosso site e como planejamos desenvolver o back-end, que será fundamental para garantir uma experiência fluida e eficiente aos usuários. O back-end é responsável por toda a lógica do servidor, incluindo o gerenciamento de dados e a interação com o banco de dados, além de processar as solicitações dos usuários e garantir a segurança das informações.
